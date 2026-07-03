@@ -80,12 +80,12 @@ I am also learning **Full Stack .NET Development** to build complete and scalabl
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Tamer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Abdelrahman-Tamer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=Abdelrahman-Tamer&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Tamer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdelrahman-Tamer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ I am also learning **Full Stack .NET Development** to build complete and scalabl
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdelrahman-Tamer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-trophies.vercel.app/?username=Abdelrahman-Tamer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
